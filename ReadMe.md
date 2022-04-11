@@ -5,6 +5,6 @@ Creating this repo to document all the red flags which can help you avoid wrong 
 
 E.g. 
 Inline-style: 
-![alt text](https://github.com/amuldotexe/amuldotexeEmployerRedFlags/2021-08-02 10.37.17.jpg "Pay $ if you don't join")
+![Pay $ if you don't join](https://github.com/amuldotexe/amuldotexeEmployerRedFlags/PayMoneyIfYourDoNOTJoin20220412.jpg.jpg)
 
 
